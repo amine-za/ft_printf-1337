@@ -16,9 +16,9 @@ This project, part of the 42 network's curriculum, aims to recreate the standard
 
 1. Clone the repository:
 
-    bash :
-    git clone https://github.com/aminezagh/ft_printf.git
-    
+    ```bash
+    git clone https://github.com/your-username/ft_printf.git
+    ```
 
 2. Navigate to the project directory:
 
