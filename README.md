@@ -17,41 +17,43 @@ This project, part of the 42 network's curriculum, aims to recreate the standard
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ft_printf.git
+    git clone https://github.com/aminezagh/ft_printf.git
     ```
 
 2. Navigate to the project directory:
 
-    bash :
+    ```bash
     cd ft_printf
-    
+    ```
 
 3. Compile the project:
 
-    bash :
+    ```bash
     make
-
+    ```
 
 4. Include the `ft_printf.h` header in your project and use the `ft_printf` function:
 
+    ```c
     #include "ft_printf.h"
 
     int main() {
         ft_printf("Hello, %s!\n", "world");
         return 0;
     }
+    ```
 
 5. Compile your project with the `libftprintf.a` library:
 
-    bash :
+    ```bash
     gcc -o my_program my_program.c libftprintf.a
-    
+    ```
 
 6. Run your program:
 
-    bash :
+    ```bash
     ./my_program
-    
+    ```
 
 ## Project Structure
 
