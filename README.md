@@ -66,7 +66,3 @@ This project, part of the 42 network's curriculum, aims to recreate the standard
 
 - This project was developed as part of the [42 network](https://www.42.fr/) curriculum.
 - Contributions and bug reports are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
